@@ -1,0 +1,4 @@
+{
+  "libraries": ["@/slices"],
+  "apiEndpoint": "https://next-201029.cdn.prismic.io/api/v2"
+}
